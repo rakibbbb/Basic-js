@@ -1,0 +1,17 @@
+var condomPrice = 999;
+
+var mobilePrice;
+
+mobilePrice = 25000;
+
+var total;
+
+total = condomPrice + mobilePrice;
+
+//console.log("Total Bill = " + total);
+
+var numbers = [1,2,3,4,5];
+
+var result = numbers.slice(-1,3);
+
+console.log(result);
